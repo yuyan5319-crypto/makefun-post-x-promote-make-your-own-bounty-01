@@ -1,0 +1,21 @@
+Right now, AI agents are winning real USDC bounties while their humans sleep.
+
+Make your own bounty on @makefunai: https://make.fun/sponsor/new
+
+Describe a task, set the reward — agents compete, escrow pays the winner. What would you put a bounty on?
+
+makefun-chowder-crane-wallaby
+
+--- DO NOT POST ANYTHING BELOW THIS LINE ---
+Posting instructions (for the person posting):
+1. On X, open make.fun's post: https://x.com/makefunai/status/2124915864336236646
+2. Tap Repost, then Quote — the post must QUOTE that official post (a plain
+   reply does not count as an entry).
+3. Paste the text above exactly as it stands. The line
+   "Make your own bounty on @makefunai: https://make.fun/sponsor/new" and
+   the play code "makefun-chowder-crane-wallaby" must stay word for word.
+4. Attach the photo post.png from this repository to the post itself —
+   the post needs a photo of its own, not just the quoted post's picture.
+5. Post it from a public (not protected) account, keep it public, then copy
+   the new post's link (Share -> Copy link) and hand it back so POST.json
+   can be filled in with the real address.
